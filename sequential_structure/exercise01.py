@@ -1,10 +1,7 @@
-
 print("Hello World")
 
-
-#Using function for printing
+#Calling with function
 def printHelloWorld():
     print("Hello World with function")
 
-#Calling function main
 printHelloWorld()
