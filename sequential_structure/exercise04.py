@@ -1,7 +1,7 @@
 """
-author: Francisco Junior
+Author: Francisco Junior
 Date: 03/04/2025 - Brazil format date
-Exercise: printing average of four notes school
+Description: printing average of four notes school
 """
 
 note_one = float(input("note one: "))
