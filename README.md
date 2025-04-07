@@ -13,5 +13,6 @@
 ## Topics covered
 
 1. Sequential Structure
-2. Repetition Structure
-3. Lists Structure
+2. Condition Structure
+3. Repetition Structure
+4. Lists Structure
