@@ -1,7 +1,6 @@
 ![Montain Milestone icon ](https://cdn-icons-png.flaticon.com/512/3333/3333521.png)
 # Documentation - Resolution Python Brazil exercises
 
-
 - It is worth noting that this repository is incomplete since the Python Brazil exercise source itself has been discontinued, so I will gradually increase it with new questions.
 
 - Data about repository
