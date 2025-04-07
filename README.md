@@ -1,4 +1,4 @@
-![Montain Milestone icon ](https://cdn-icons-png.flaticon.com/512/3333/3333521.png){: width="50%"}
+![Montain Milestone icon ](https://cdn-icons-png.flaticon.com/512/3333/3333521.png)
 # Documentation - Resolution Python Brazil exercises
 
 
